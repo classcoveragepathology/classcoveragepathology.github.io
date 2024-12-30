@@ -1,7 +1,7 @@
-# Uncertainty Quantification in DL Models for Cervical Cytology
+# Ensuring Class-Conditional Coverage for Pathological Workflows
 
-- #### Authors: Shubham Ojha & Aditya Narendra
-- #### Venue & Year: Medical Imaging with Deep Learning (MIDL), 2024
+- #### Authors: Siddharth Narendra, Shubham Ojha, Aditya Narendra, Abhay Kshirsagar & Abhisek Mallick
+- #### Venue & Year: AAAI 2025
 
 
 
